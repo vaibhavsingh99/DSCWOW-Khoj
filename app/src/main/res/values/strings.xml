@@ -1,0 +1,13 @@
+<resources>
+
+
+    <string name="hello">Hello</string>
+
+    <string name="john">User</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="khoj">khoj</string>
+    <string name="sign_in">Sign In</string>
+    <string name="todo">TODO</string>
+    <string name="app_name"></string>
+</resources>
